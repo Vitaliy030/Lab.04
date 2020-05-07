@@ -1,0 +1,11 @@
+Product number:		Name:		Weight (g):		Production cost (UAH):			Sale price (UAH):
+554841212		Bike		2000			1000					2100
+496439464		Scissors	100			6					15
+846494616		Pen		100			5					10
+464946648		Elastic		200			3					8
+795133669		Tablet		1200			1256					5200
+661694448		Wardrobe	84000			2543					15200
+843143463		Book		2500			57					254
+234973956		Notebook	400			10					24
+467617464		Glue		200			14					41
+646134656		Vase		3200			35					451
